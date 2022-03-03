@@ -3,6 +3,7 @@ let prato
 let bebida
 let sobremesa
 
+
 function escolherFrango() {
     document.getElementById("frango").style.borderColor = "green";
     document.getElementById("carne").style.borderColor = "white";
